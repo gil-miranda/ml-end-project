@@ -1,7 +1,7 @@
-ml_end_project
+MNIST - Machine Learning Engineering
 ==============================
 
-An end-to-end Machine Learning Project, with MLOps
+An end-to-end Machine Learning Project to serve a digit prediction classifier
 
 Project Organization
 ------------
